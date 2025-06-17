@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IYVVbFUB458=",
+  "dgSpecHash": "qKNAfbD9r0s=",
   "success": true,
-  "projectFilePath": "D:\\fpt\\CNet\\PRN212_SE1852\\OOP2\\OOP2.csproj",
+  "projectFilePath": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\OOP2\\OOP2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JAHY\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],

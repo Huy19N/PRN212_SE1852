@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\fpt\\CNet\\PRN212_SE1852\\",
+  "WorkspaceRootPath": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBA4A87E-B36C-41F4-90A2-D96016E254A6}|CheckBox\\CheckBox.csproj|d:\\fpt\\cnet\\prn212_se1852\\checkbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5C15604C-FDED-4B87-BDF5-D76506FA0371}|HelloApp\\HelloApp.csproj|d:\\fpt\\github\\prn212_se1852\\prn212_se1852\\helloapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5C15604C-FDED-4B87-BDF5-D76506FA0371}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C15604C-FDED-4B87-BDF5-D76506FA0371}|HelloApp\\HelloApp.csproj|d:\\fpt\\github\\prn212_se1852\\prn212_se1852\\helloapp\\calsumwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5C15604C-FDED-4B87-BDF5-D76506FA0371}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\calsumwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA4A87E-B36C-41F4-90A2-D96016E254A6}|CheckBox\\CheckBox.csproj|d:\\fpt\\github\\prn212_se1852\\prn212_se1852\\checkbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DBA4A87E-B36C-41F4-90A2-D96016E254A6}|CheckBox\\CheckBox.csproj|solutionrelative:checkbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBA4A87E-B36C-41F4-90A2-D96016E254A6}|CheckBox\\CheckBox.csproj|d:\\fpt\\cnet\\prn212_se1852\\checkbox\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{DBA4A87E-B36C-41F4-90A2-D96016E254A6}|CheckBox\\CheckBox.csproj|d:\\fpt\\github\\prn212_se1852\\prn212_se1852\\checkbox\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DBA4A87E-B36C-41F4-90A2-D96016E254A6}|CheckBox\\CheckBox.csproj|solutionrelative:checkbox\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBA4A87E-B36C-41F4-90A2-D96016E254A6}|CheckBox\\CheckBox.csproj|d:\\fpt\\cnet\\prn212_se1852\\checkbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBA4A87E-B36C-41F4-90A2-D96016E254A6}|CheckBox\\CheckBox.csproj|d:\\fpt\\github\\prn212_se1852\\prn212_se1852\\checkbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBA4A87E-B36C-41F4-90A2-D96016E254A6}|CheckBox\\CheckBox.csproj|solutionrelative:checkbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,11 +42,35 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\HelloApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HelloApp\\MainWindow.xaml",
+              "ToolTip": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\HelloApp\\MainWindow.xaml",
+              "RelativeToolTip": "HelloApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T01:24:29.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CalSumWindow.xaml",
+              "DocumentMoniker": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\HelloApp\\CalSumWindow.xaml",
+              "RelativeDocumentMoniker": "HelloApp\\CalSumWindow.xaml",
+              "ToolTip": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\HelloApp\\CalSumWindow.xaml",
+              "RelativeToolTip": "HelloApp\\CalSumWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T01:24:20.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\fpt\\CNet\\PRN212_SE1852\\CheckBox\\App.xaml",
+              "DocumentMoniker": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\CheckBox\\App.xaml",
               "RelativeDocumentMoniker": "CheckBox\\App.xaml",
-              "ToolTip": "D:\\fpt\\CNet\\PRN212_SE1852\\CheckBox\\App.xaml",
+              "ToolTip": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\CheckBox\\App.xaml",
               "RelativeToolTip": "CheckBox\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-17T01:10:16.789Z",
@@ -46,11 +78,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\fpt\\CNet\\PRN212_SE1852\\CheckBox\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\CheckBox\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CheckBox\\MainWindow.xaml",
-              "ToolTip": "D:\\fpt\\CNet\\PRN212_SE1852\\CheckBox\\MainWindow.xaml",
+              "ToolTip": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\CheckBox\\MainWindow.xaml",
               "RelativeToolTip": "CheckBox\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-17T00:50:51.297Z",
@@ -58,11 +90,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\fpt\\CNet\\PRN212_SE1852\\CheckBox\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\CheckBox\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CheckBox\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\fpt\\CNet\\PRN212_SE1852\\CheckBox\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\CheckBox\\MainWindow.xaml.cs",
               "RelativeToolTip": "CheckBox\\MainWindow.xaml.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAcwDMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fpt\\CNet\\PRN212_SE1852\\callbyRederence\\callbyRederence.csproj",
+      "projectUniqueName": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\callbyRederence\\callbyRederence.csproj",
       "projectName": "callbyRederence",
-      "projectPath": "D:\\fpt\\CNet\\PRN212_SE1852\\callbyRederence\\callbyRederence.csproj",
+      "projectPath": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\callbyRederence\\callbyRederence.csproj",
       "packagesPath": "C:\\Users\\JAHY\\.nuget\\packages\\",
-      "outputPath": "D:\\fpt\\CNet\\PRN212_SE1852\\callbyRederence\\obj\\",
+      "outputPath": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\callbyRederence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

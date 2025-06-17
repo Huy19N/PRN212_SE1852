@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LiYNYjkzLrQ=",
+  "dgSpecHash": "s623iHMc/ZI=",
   "success": true,
-  "projectFilePath": "D:\\fpt\\CNet\\PRN212_SE1852\\LucyDemoLNQ2SQL\\LucyDemoLNQ2SQL.csproj",
+  "projectFilePath": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\LucyDemoLNQ2SQL\\LucyDemoLNQ2SQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JAHY\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\JAHY\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

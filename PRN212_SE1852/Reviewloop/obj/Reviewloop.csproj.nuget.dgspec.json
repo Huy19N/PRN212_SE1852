@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\fpt\\CNet\\PRN212_SE1852\\Reviewloop\\Reviewloop.csproj": {}
+    "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\Reviewloop\\Reviewloop.csproj": {}
   },
   "projects": {
-    "D:\\fpt\\CNet\\PRN212_SE1852\\Reviewloop\\Reviewloop.csproj": {
+    "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\Reviewloop\\Reviewloop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fpt\\CNet\\PRN212_SE1852\\Reviewloop\\Reviewloop.csproj",
+        "projectUniqueName": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\Reviewloop\\Reviewloop.csproj",
         "projectName": "Reviewloop",
-        "projectPath": "D:\\fpt\\CNet\\PRN212_SE1852\\Reviewloop\\Reviewloop.csproj",
+        "projectPath": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\Reviewloop\\Reviewloop.csproj",
         "packagesPath": "C:\\Users\\JAHY\\.nuget\\packages\\",
-        "outputPath": "D:\\fpt\\CNet\\PRN212_SE1852\\Reviewloop\\obj\\",
+        "outputPath": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\Reviewloop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
