@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\HelloApp\\HelloApp.csproj",
-      "projectName": "HelloApp",
-      "projectPath": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\HelloApp\\HelloApp.csproj",
+      "projectUniqueName": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\HelloApp\\CalSum.csproj",
+      "projectName": "CalSum",
+      "projectPath": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\HelloApp\\CalSum.csproj",
       "packagesPath": "C:\\Users\\JAHY\\.nuget\\packages\\",
       "outputPath": "D:\\fpt\\Github\\PRN212_SE1852\\PRN212_SE1852\\HelloApp\\obj\\",
       "projectStyle": "PackageReference",

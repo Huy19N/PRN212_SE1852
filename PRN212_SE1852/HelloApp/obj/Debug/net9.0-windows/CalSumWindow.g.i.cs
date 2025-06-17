@@ -117,7 +117,7 @@ namespace HelloApp {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/HelloApp;component/calsumwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/CalSum;V1.0.0.0;component/calsumwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\CalSumWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

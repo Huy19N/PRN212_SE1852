@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoLNQToObject2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5619e5a5a25e5e2b1215b7b7ba3350a626adc63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1c285c67cd73f47e0265495007a2a702ba7e74b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoLNQToObject2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoLNQToObject2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
