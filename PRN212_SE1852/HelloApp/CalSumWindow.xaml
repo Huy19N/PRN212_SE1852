@@ -1,0 +1,38 @@
+﻿<Window x:Class="HelloApp.CalSumWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloApp"
+        mc:Ignorable="d"
+        Title="CalSumWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="txtNum1" Content="Hệ số _a :" HorizontalAlignment="Left" Margin="194,80,0,0" VerticalAlignment="Top" Width="231"/>
+        <Label x:Name="txtSum2" Content="Hệ số _b :" HorizontalAlignment="Left" Margin="198,165,0,0" VerticalAlignment="Top" Width="231"/>
+        <TextBox x:Name="Num1" HorizontalAlignment="Left" Margin="194,120,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="206" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="Num2" HorizontalAlignment="Left" Margin="194,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="206"/>
+        <Label x:Name="txtResult" Content="Kết quả: " HorizontalAlignment="Left" Margin="194,243,0,0" VerticalAlignment="Top" Width="231"/>
+        <TextBox x:Name="Sum" HorizontalAlignment="Left" Margin="194,293,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="206"/>
+        <Button x:Name="Sum_result" Content="Sum" HorizontalAlignment="Left" Margin="194,352,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="81" Click="Sum_result_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.257"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="Exit" Content="Exit" HorizontalAlignment="Left" Margin="292,352,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.891,0.64" Width="81" Click="Exit_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.257"/>
+                    <TranslateTransform X="0.012" Y="-0.142"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+    </Grid>
+</Window>

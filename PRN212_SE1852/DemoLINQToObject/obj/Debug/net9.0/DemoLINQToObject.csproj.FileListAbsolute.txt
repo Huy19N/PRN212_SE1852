@@ -1,0 +1,14 @@
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\bin\Debug\net9.0\DemoLINQToObject.exe
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\bin\Debug\net9.0\DemoLINQToObject.deps.json
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\bin\Debug\net9.0\DemoLINQToObject.runtimeconfig.json
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\bin\Debug\net9.0\DemoLINQToObject.dll
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\bin\Debug\net9.0\DemoLINQToObject.pdb
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\obj\Debug\net9.0\DemoLINQToObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\obj\Debug\net9.0\DemoLINQToObject.AssemblyInfoInputs.cache
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\obj\Debug\net9.0\DemoLINQToObject.AssemblyInfo.cs
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\obj\Debug\net9.0\DemoLINQToObject.csproj.CoreCompileInputs.cache
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\obj\Debug\net9.0\DemoLINQToObject.dll
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\obj\Debug\net9.0\refint\DemoLINQToObject.dll
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\obj\Debug\net9.0\DemoLINQToObject.pdb
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\obj\Debug\net9.0\DemoLINQToObject.genruntimeconfig.cache
+D:\fpt\CNet\PRN212_SE1852\DemoLINQToObject\obj\Debug\net9.0\ref\DemoLINQToObject.dll

@@ -1,0 +1,14 @@
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\bin\Debug\net9.0\DemoDelegate.exe
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\bin\Debug\net9.0\DemoDelegate.deps.json
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\bin\Debug\net9.0\DemoDelegate.runtimeconfig.json
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\bin\Debug\net9.0\DemoDelegate.dll
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\bin\Debug\net9.0\DemoDelegate.pdb
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate.AssemblyInfoInputs.cache
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate.AssemblyInfo.cs
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate.csproj.CoreCompileInputs.cache
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate.dll
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\refint\DemoDelegate.dll
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate.pdb
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate.genruntimeconfig.cache
+D:\fpt\CNet\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\ref\DemoDelegate.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/oPx1a+QuA=",
+  "success": true,
+  "projectFilePath": "D:\\fpt\\CNet\\PRN212_SE1852\\OOP1\\OOP1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JAHY\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
