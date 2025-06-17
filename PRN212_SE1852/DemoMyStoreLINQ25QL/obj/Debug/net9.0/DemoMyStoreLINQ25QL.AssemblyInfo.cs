@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoMyStoreLINQ25QL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1c285c67cd73f47e0265495007a2a702ba7e74b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a62f1acf02a14ed1d6b395e00e7dc2df876355e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoMyStoreLINQ25QL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoMyStoreLINQ25QL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
