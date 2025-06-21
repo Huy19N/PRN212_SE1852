@@ -1,0 +1,17 @@
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net9.0\Repositories.deps.json
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net9.0\Repositories.dll
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net9.0\Repositories.pdb
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net9.0\BusinessObject.dll
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net9.0\DataAccessLayer.dll
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net9.0\BusinessObject.pdb
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.dll
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.pdb
+D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net9.0\ref\Repositories.dll
