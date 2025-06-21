@@ -1,0 +1,16 @@
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.deps.json
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.dll
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\bin\Debug\net9.0\BusinessObject.dll
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\bin\Debug\net9.0\BusinessObject.pdb
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.sourcelink.json
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAcce.E67BD773.Up2Date
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.dll
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\refint\DataAccessLayer.dll
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.pdb
+D:\fpt\Github\PRN212_SE1852\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\ref\DataAccessLayer.dll
