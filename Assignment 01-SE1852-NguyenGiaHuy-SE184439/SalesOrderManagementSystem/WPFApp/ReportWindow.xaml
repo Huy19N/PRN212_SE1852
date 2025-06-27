@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPFApp.ReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp"
+        mc:Ignorable="d"
+        Title="ReportWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Margin="0 0 0 10" Grid.Row="0">
+            <Label Content="From:" VerticalAlignment="Center"/>
+            <DatePicker x:Name="dpFromDate" Margin="5 0"/>
+            <Label Content="To:" VerticalAlignment="Center"/>
+            <DatePicker x:Name="dpToDate" Margin="5 0"/>
+            <Button Content="Generate Report" Click="BtnGenerateReport_Click" Margin="10 0"/>
+        </StackPanel>
+
+        <DataGrid x:Name="dgReport" AutoGenerateColumns="True" Grid.Row="1"/>
+    </Grid>
+</Window>
