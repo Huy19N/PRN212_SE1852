@@ -13,5 +13,9 @@ namespace Respositories
         public void InitializeDataset();
 
         public bool SaveProduct(Product p);
+
+        public bool UpdateProduct(Product p);
+
+        public bool DeleteProduct(int id);
     }
 }

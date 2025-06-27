@@ -26,5 +26,15 @@ namespace Respositories
             return productDAO.SaveProduct(p);
             
         }
+
+        public bool UpdateProduct(Product p)
+        {
+            return productDAO.UpdateProduct(p);
+        }
+
+        public bool DeleteProduct(int id)
+        {
+            return productDAO.DeleteProduct(id);
+        }
     }
 }

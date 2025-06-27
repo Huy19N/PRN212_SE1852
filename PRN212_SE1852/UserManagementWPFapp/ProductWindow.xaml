@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="ProductWindow" Height="450" Width="800">
     <Grid>
-        <ListView x:Name="lvProduct" d:ItemsSource="{d:SampleData ItemCount=6}" Margin="10,10,223,269">
+        <ListView x:Name="lvProduct" d:ItemsSource="{d:SampleData ItemCount=6}" Margin="10,10,223,269" SelectionChanged="lvProduct_SelectionChanged_1">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="Code Product"
@@ -30,5 +30,9 @@
         <TextBox x:Name="txtgia" HorizontalAlignment="Left" Margin="173,330,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="133" Height="22" TextChanged="TextBox_TextChanged"/>
         <Label Content="Price" HorizontalAlignment="Left" Margin="51,330,0,0" VerticalAlignment="Top" Width="90"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="173,389,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.575,0.393" Click="Button_Click"/>
+        <Button x:Name="txtUpdate" Content="Update" HorizontalAlignment="Left" Margin="254,389,0,0" VerticalAlignment="Top" Click="txtUpdate_Click"/>
+        <Button HorizontalAlignment="Left" Margin="342,389,0,0" VerticalAlignment="Top" >
+            <Button x:Name="Delete" Content="Delete" Click="Delete_Click"/>
+        </Button>
     </Grid>
 </Window>

@@ -16,6 +16,12 @@ namespace Services
         {
             _productRepository = new ProductRepository();
         }
+
+        public bool DeleteProduct(int id)
+        {
+            return _productRepository.DeleteProduct(id);
+        }
+
         public List<Product> GetAllProducts()
         {
             return _productRepository.GetAllProducts();
@@ -30,5 +36,12 @@ namespace Services
         {
             return _productRepository.SaveProduct(p);
         }
+
+        public bool UpdateProduct(Product p)
+        {
+            return _productRepository.UpdateProduct(p);
+        }
+
+
     }
 }

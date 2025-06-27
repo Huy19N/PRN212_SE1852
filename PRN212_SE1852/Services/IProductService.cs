@@ -12,5 +12,9 @@ namespace Services
         public void InitializeDataset();
         public List<Product> GetAllProducts();
         public bool SaveProduct(Product p);
+
+        public bool UpdateProduct(Product p);
+
+        public bool DeleteProduct(int p);
     }
 }
