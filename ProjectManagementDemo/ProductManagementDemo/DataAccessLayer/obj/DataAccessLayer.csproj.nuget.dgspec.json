@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
+    "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj",
+        "projectPath": "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj",
         "packagesPath": "C:\\Users\\JAHY\\.nuget\\packages\\",
-        "outputPath": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\obj\\",
+        "outputPath": "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\JAHY\\.nuget\\packages\\",
-        "outputPath": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj"
+              "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }

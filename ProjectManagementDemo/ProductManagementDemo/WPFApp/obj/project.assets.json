@@ -2826,11 +2826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\WPFApp\\WPFApp.csproj",
+      "projectUniqueName": "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\WPFApp\\WPFApp.csproj",
       "projectName": "WPFApp",
-      "projectPath": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\WPFApp\\WPFApp.csproj",
+      "projectPath": "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\WPFApp\\WPFApp.csproj",
       "packagesPath": "C:\\Users\\JAHY\\.nuget\\packages\\",
-      "outputPath": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\WPFApp\\obj\\",
+      "outputPath": "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\WPFApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2851,11 +2851,11 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj"
+            "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj"
             },
-            "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\Services\\Services.csproj": {
-              "projectPath": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\Services\\Services.csproj"
+            "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\Services\\Services.csproj": {
+              "projectPath": "D:\\fpt\\Github\\PRN212_SE1852\\ProjectManagementDemo\\ProductManagementDemo\\Services\\Services.csproj"
             }
           }
         }

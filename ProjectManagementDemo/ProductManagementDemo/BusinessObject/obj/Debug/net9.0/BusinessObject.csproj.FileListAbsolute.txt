@@ -13,3 +13,15 @@ D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug
 D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug\net9.0\refint\BusinessObject.dll
 D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug\net9.0\BusinessObject.pdb
 D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug\net9.0\ref\BusinessObject.dll
+D:\fpt\Github\PRN212_SE1852\ProjectManagementDemo\ProductManagementDemo\BusinessObject\bin\Debug\net9.0\BusinessObject.deps.json
+D:\fpt\Github\PRN212_SE1852\ProjectManagementDemo\ProductManagementDemo\BusinessObject\bin\Debug\net9.0\BusinessObject.dll
+D:\fpt\Github\PRN212_SE1852\ProjectManagementDemo\ProductManagementDemo\BusinessObject\bin\Debug\net9.0\BusinessObject.pdb
+D:\fpt\Github\PRN212_SE1852\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug\net9.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\Github\PRN212_SE1852\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug\net9.0\BusinessObject.AssemblyInfoInputs.cache
+D:\fpt\Github\PRN212_SE1852\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug\net9.0\BusinessObject.AssemblyInfo.cs
+D:\fpt\Github\PRN212_SE1852\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug\net9.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\fpt\Github\PRN212_SE1852\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug\net9.0\BusinessObject.sourcelink.json
+D:\fpt\Github\PRN212_SE1852\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug\net9.0\BusinessObject.dll
+D:\fpt\Github\PRN212_SE1852\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug\net9.0\refint\BusinessObject.dll
+D:\fpt\Github\PRN212_SE1852\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug\net9.0\BusinessObject.pdb
+D:\fpt\Github\PRN212_SE1852\ProjectManagementDemo\ProductManagementDemo\BusinessObject\obj\Debug\net9.0\ref\BusinessObject.dll
