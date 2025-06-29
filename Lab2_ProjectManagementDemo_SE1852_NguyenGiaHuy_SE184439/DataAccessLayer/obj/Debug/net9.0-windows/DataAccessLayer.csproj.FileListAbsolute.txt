@@ -1,0 +1,17 @@
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\bin\Debug\net9.0-windows\DataAccessLayer.deps.json
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\bin\Debug\net9.0-windows\DataAccessLayer.runtimeconfig.json
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\bin\Debug\net9.0-windows\DataAccessLayer.dll
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\bin\Debug\net9.0-windows\DataAccessLayer.pdb
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\bin\Debug\net9.0-windows\BusinessObject.dll
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\bin\Debug\net9.0-windows\BusinessObject.pdb
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\obj\Debug\net9.0-windows\DataAccessLayer.csproj.AssemblyReference.cache
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\obj\Debug\net9.0-windows\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\obj\Debug\net9.0-windows\DataAccessLayer.AssemblyInfoInputs.cache
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\obj\Debug\net9.0-windows\DataAccessLayer.AssemblyInfo.cs
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\obj\Debug\net9.0-windows\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\obj\Debug\net9.0-windows\DataAcce.E67BD773.Up2Date
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\obj\Debug\net9.0-windows\DataAccessLayer.dll
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\obj\Debug\net9.0-windows\refint\DataAccessLayer.dll
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\obj\Debug\net9.0-windows\DataAccessLayer.pdb
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\obj\Debug\net9.0-windows\DataAccessLayer.genruntimeconfig.cache
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\DataAccessLayer\obj\Debug\net9.0-windows\ref\DataAccessLayer.dll

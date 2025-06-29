@@ -1,0 +1,14 @@
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\bin\Debug\net9.0\BusinessObject.deps.json
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\bin\Debug\net9.0\BusinessObject.runtimeconfig.json
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\bin\Debug\net9.0\BusinessObject.dll
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\bin\Debug\net9.0\BusinessObject.pdb
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\obj\Debug\net9.0\BusinessObject.csproj.AssemblyReference.cache
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\obj\Debug\net9.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\obj\Debug\net9.0\BusinessObject.AssemblyInfoInputs.cache
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\obj\Debug\net9.0\BusinessObject.AssemblyInfo.cs
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\obj\Debug\net9.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\obj\Debug\net9.0\BusinessObject.dll
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\obj\Debug\net9.0\refint\BusinessObject.dll
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\obj\Debug\net9.0\BusinessObject.pdb
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\obj\Debug\net9.0\BusinessObject.genruntimeconfig.cache
+D:\fpt\CNet\Lab2_ProjectManagementDemo_SE1852_NguyenGiaHuy_SE184439\BusinessObject\obj\Debug\net9.0\ref\BusinessObject.dll
