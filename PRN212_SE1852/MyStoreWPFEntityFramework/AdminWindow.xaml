@@ -1,0 +1,38 @@
+﻿<Window x:Class="MyStoreWPFEntityFramework.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyStoreWPFEntityFramework"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="450" Width="800">
+    <DockPanel RenderTransformOrigin="0.468,0.501">
+        <WrapPanel DockPanel.Dock="Top" Height="50" Background="Aqua" >
+            <Label Content="Admin System " FontSize="19"/>
+        </WrapPanel>
+        <StackPanel DockPanel.Dock="Bottom" Height="30" Background="BlueViolet">
+            <Label Content="Designed by Huy" />
+        </StackPanel>
+        <TreeView DockPanel.Dock="Left" Width="250" x:Name="tvCategory" Background="Aqua" Margin="10,10,611,56" SelectedItemChanged="tvCategory_SelectedItemChanged"/>
+        <DockPanel Background="Aquamarine">
+            <ListView x:Name="lvProduct" DockPanel.Dock="Top" Height="200" Background="AntiqueWhite">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Code Product"
+                        DisplayMemberBinding="{Binding ProductID}"/>
+                        <GridViewColumn Header="Name Product" 
+                        DisplayMemberBinding="{Binding ProductName}"/>
+                        <GridViewColumn Header="Quantity" 
+                        DisplayMemberBinding="{Binding UnitsInStock}"/>
+                        <GridViewColumn Header="Price" 
+                        DisplayMemberBinding="{Binding UnitPrice}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Grid Background="DarkOrchid">
+                
+            </Grid>
+            
+        </DockPanel>
+    </DockPanel>
+</Window>
